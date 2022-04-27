@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "kartik",
+        "password": "1234",
+        "age": 23,
+        "phone number": "1234567890",
+        "order history": {}
+    },
+    {
+        "id": 2,
+        "name": "vishal",
+        "password": "1234",
+        "age": 23,
+        "phone number": "0987654321",
+        "order history": {}
+    }
+]
