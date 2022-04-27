@@ -1,1 +1,1 @@
-# food_delivery_app_project
+# food_ordering_app_project
